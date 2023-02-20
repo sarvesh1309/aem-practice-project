@@ -1,1 +1,1 @@
-This is my new AEM Practice Project.
+This is my  AEM Practice Project.
