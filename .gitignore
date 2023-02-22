@@ -1,0 +1,8 @@
+.repo
+.idea/*
+*/target/*
+.DS_Store
+*/node/*
+*/node_modules/*
+*/dist/
+.idea/*
